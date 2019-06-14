@@ -1,0 +1,44 @@
+td{
+    border : 1px solid;
+    height :100px;
+    width :100px;
+}
+/* table{
+    margin-left :380px;
+    align-self: center;
+} */
+.page-header{
+    padding :5px;
+    color :rgb(232, 240, 232);
+    background :rgb(89, 85, 92);
+}
+.col-sm-4{
+    height :100px;
+    width :100px;
+    border: 1px solid;
+}
+
+.page-header h2{
+    text-align:"center";
+}
+footer{
+    text-align: "center";
+}
+
+.selection{
+    margin : 5px;
+    padding : 5px;
+}   
+.base{
+    margin-left : 400px;
+    padding :0;
+    height :500px;
+    width : 500px;
+}
+.pieces{
+    cursor :pointer;
+    float :left;
+    border : 1px solid;
+    margin: 0;
+    padding: 0;
+}
